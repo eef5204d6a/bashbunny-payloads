@@ -37,6 +37,13 @@ function RUN() {
          QUACK DELAY 500
          QUACK ENTER
          ;;
+      LINUX)
+         QUACK ALT F2
+         QUACK DELAY 500
+         QUACK STRING "$@"
+         QUACK DELAY 500
+         QUACK ENTER
+         ;;
       *)
          # OS parameter must be one of the above
          exit 1
