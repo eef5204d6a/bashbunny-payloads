@@ -17,6 +17,7 @@
 # - Hidden powershell window by default
 # 
 # LED Status
+#
 # Red Blinking.........Failed to find dependencies
 # Purple Blinking......HID Stage
 # Purple...............Ethernet Stage
